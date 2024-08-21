@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">Swipe CSAT Business</string>
+
+    <string name="app_name_first_part">Swipe</string>
+    <string name="app_name_second_part">CSAT</string>
+
+    <string name="app_name_business_part">Business</string>
+
+    <string name="intro_text">Собирайте аналитику по отзывам</string>
+
+    <string name="button_start_register">Создать аккаунт</string>
+
+    <string name="button_login_first_part">Уже с нами?</string>
+    <string name="button_login_second_part">Войти</string>
+
+    <string name="login_screen_title">Вход</string>
+    <string name="register_screen_title">Регистрация</string>
+
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Пароль</string>
+    <string name="hint_name">Название бизнеса</string>
+    <string name="hint_description">Небольшое описание бизнеса</string>
+    <string name="hint_user_contact_email">Почта для вопросов</string>
+
+    <string name="button_register">Зарегистрироваться</string>
+    <string name="button_login">Войти</string>
+
+    <string name="agree_with_policy_title_first_part">Продолжая, вы соглашаетесь с нашей</string>
+    <string name="agree_with_policy_title_second_part">Политикой конфидициальности.</string>
+
+    <string name="message_password_requirements">Пароль должен содержать не менее 8 символов, цифры и буквы</string>
+
+    <string name="message_email_invalid">Неверный вид почты</string>
+    <string name="message_description_invalid">Неверный формат описания</string>
+    <string name="message_name_invalid">Неверный формат имени</string>
+
+    <string name="hint_coupon_name">Название купона</string>
+    <string name="hint_coupon_text">Описание купона</string>
+    <string name="hint_coupon_count">Кол-во экземпляров</string>
+
+    <string name="message_coupon_name_invalid">Неверное название купона</string>
+    <string name="message_coupon_text_invalid">Неверное описание купона</string>
+    <string name="message_coupon_count_invalid">Количество купонов должно быть натуральное число</string>
+
+    <string name="analytics_screen_name">Аналитика</string>
+    <string name="feedbacks_screen_name">Отзывы</string>
+    <string name="settings_screen_name">Настройки</string>
+
+    <string name="button_save">Сохранить</string>
+    <string name="coupon_title">Купон</string>
+    <string name="coupon_test_token">COUPON_000_TOKEN</string>
+
+    <string name="hint_address">Адрес</string>
+
+    <string name="title_base_analytic">Общая статистика</string>
+    <string name="title_product_analytic">Статистика по продуктам</string>
+
+    <string name="profile_screen_title">Редактирование профиля</string>
+    
+    <string name="feedback_date">Отзыв от: %s</string>
+
+    <string name="button_add_coupon_screen">Добавление купона</string>
+    <string name="button_edit_form_screen">Редактирование опроса</string>
+    <string name="button_logout">Выйти</string>
+
+    <string name="hint_field_name">Название пункта</string>
+</resources>
